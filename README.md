@@ -12,6 +12,6 @@
 alt="HTML">
 
 <h2>Punto 3: CSS</h2>
-<img src="./public/images/CSS.png"
+<img src="./public/images/CSS.jpeg"
 alt="css">
 
