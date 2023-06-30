@@ -1,0 +1,12 @@
+.blue{
+    color: blue;
+    display: flex;
+    justify-content: center;
+
+}
+
+.red{
+    color: #fc0000;
+    display: flex;
+    justify-content: center;
+}

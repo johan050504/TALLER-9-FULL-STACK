@@ -1,0 +1,25 @@
+body{
+    display: flex;
+    gap: 10px;
+  
+   align-items: center;
+    
+}
+
+p{
+    
+color: black;
+}
+
+ .green {
+    color: rgb(8, 238, 8);
+}
+
+.red {
+    color: rgb(255, 0, 0);
+}
+
+
+.blue {
+    color: blue;
+}
