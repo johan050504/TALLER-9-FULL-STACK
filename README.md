@@ -1,4 +1,4 @@
-<H1>taller 9: johan medina</h1>
+<H1>Taller 9: Johan Medina</h1>
 
 <h2>Informacion</h2>
 <p>Curso: Full Stack Basico - Grupo 1</p>
