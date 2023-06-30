@@ -1,0 +1,23 @@
+table{
+    display: flex;
+    gap: 35px;
+    padding: 20px 180px;
+    background-color: #1e9aff73;
+    color: #fff;
+    border: 100px 100px;
+    margin-top: 56px;
+    margin: 80px;
+  
+
+    
+ 
+    
+}
+button{
+    background-color: blue;
+    color: aliceblue;
+   border-color: blue;
+   height: 30px;
+   cursor: pointer;
+}
+

@@ -1,0 +1,29 @@
+body{
+    font-family: 'Jost';
+    margin: 60px 250px;
+    font-size: 10px;
+}
+table{
+    background-color: rgb(255, 255, 46);
+    border-top: 1px dashed black;
+    border-left: 1px dashed black;
+    border-right: 1px dashed black;
+    border-bottom: 1px dashed red;
+}
+
+th{
+    color: red;
+    font-style: oblique;
+}
+
+.row{
+    border-top: 2px dashed black; 
+    border-right: 2px dashed black;
+}
+.columna{
+    border-top: 2px dashed black;  
+}
+.text{
+    border-top: 2px dashed black;
+    text-align: justify;
+}
