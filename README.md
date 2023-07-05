@@ -17,19 +17,19 @@ alt="HTML">
 <img src="./Public/images/CSS.jpeg"
 alt="css">
 
-<h2>Punto 4: html-css</h2>
+<h2>Punto 4: Titulos</h2>
 <img src="./Public/images/punto4.jpeg"
 alt="punto4">
 
-<h2>Punto 5: HTML-CSS<h/2>
+<h2>Punto 5: Estilo de Textos<h/2>
 <img src="./Public/images/punto5.jpeg"
 alt="punto5">
 
-<h2>Punto 6: HTML-CSS<h/2>
+<h2>Punto 6: Enlaces<h/2>
 <img src="./Public/images/punto6.jpeg"
 alt="punto6">
 
-<h2>Punto 7-8: HTML-CSS<h/2>
+<h2>Punto 7-8: Navegacion<h/2>
 <img src="./Public/images/punto7-8.jpeg"
 alt="punto7-8">
 
